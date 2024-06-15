@@ -1,8 +1,5 @@
 <img width="1050" src="q0guh0mcv5ma1.jpg" alt="Hey, I'm Anon" />
 
-## My Skills
-
-
 ## About me
 
 - 🔭 I’m currently working on  **[AnonNetworks](https://anonnetworks.pl)**
