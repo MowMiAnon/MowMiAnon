@@ -1,4 +1,4 @@
-<img width="1050" src="title.png" alt="Hey, I'm Anon" />
+<img width="1050" src="q0guh0mcv5ma1.jpg" alt="Hey, I'm Anon" />
 
 ## My Skills
 
