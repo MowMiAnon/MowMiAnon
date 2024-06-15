@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on  **[AnonNetworks](https://anonnetworks.pl)**
 - 📫 How to reach me:
-   - **[Discord](https://discord.gg/DJh7kFmKMW) (recommended)**
+   - **[Discord](https://discord.ggC5fN7zsjP7) (recommended)**
 - ⚡ Fun facts: 
    - StayTune
 
