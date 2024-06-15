@@ -1,4 +1,4 @@
-<img width="1050" src="ajfon.png" alt="Hey, I'm Anon" />
+<img width="1050" src="ajfon.jpg" alt="Hey, I'm Anon" />
 
 ## About me
 
