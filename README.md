@@ -11,4 +11,4 @@
 - ⚡ Fun facts: 
    - StayTune
 
-:star: from [MowMiAnon](https://github.com/MowMiAnon)
+:star: Powered by [MowMiAnon](https://github.com/MowMiAnon)
